@@ -6,7 +6,7 @@ import styles from "../style";
 import "../index.css"
 import ReactWhatsapp from "react-whatsapp";
 import Footer from "../components/Footer";
-import { PiClockBold, PiMapPin, PiMapPinFill, PiPhoneCall } from "react-icons/pi"
+import { PiClockBold, PiMapPinFill} from "react-icons/pi"
 import { MdCall, MdEmail } from "react-icons/md";
 
 const SERVICE_ID = "service_pcqs6uq";

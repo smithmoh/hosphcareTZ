@@ -1,6 +1,6 @@
 import styles from "./style";
 
-import { Router, Routes, Route, BrowserRouter } from 'react-router-dom';
+import { Routes, Route, BrowserRouter } from 'react-router-dom';
 import Home from './pages/Home';
 import Contact from "./pages/Contact";
 import Expertise from "./pages/Expertise";
@@ -9,7 +9,7 @@ import Training from "./pages/Training";
 import Company from "./pages/Company";
 import Support from "./pages/Support";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer"
+
 
 function App() {
   return (

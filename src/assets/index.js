@@ -48,9 +48,7 @@ import img8 from "./gallery/IMG-20250428-WA0017.jpg"
 import img9 from "./gallery/IMG-20250428-WA0019.jpg"
 import img10 from "./gallery/IMG-20250428-WA0044.jpg"
 import img11 from "./gallery/IMG-20250428-WA0045.jpg"
-import img12 from "./gallery/osborn(TZ)1.jpg"
-import img13 from "./gallery/osborn(TZ)2.jpg"
-import img14 from "./gallery/osborn(TZ)3.jpg"
+
 
 //theatre | Hospital Furniture
 import functionbed from "./furniture/2function-bed.png"
