@@ -1,11 +1,8 @@
 import styles, { layout } from "../style";
 import Button2 from "./Button2";
-import { Swiper, SwiperSlide, useSwiper } from 'swiper/react';
 import 'swiper/css';
 import './Services.css';
 import sliderdata from '../constants/sliderservices';
-import { motion } from "framer-motion";
-import { textVariant } from "../components/motion";
 
 
 const Services = () => {

@@ -1,4 +1,3 @@
-import React from "react";
 import { projectmgmt, shipping, tech, consulting, repairs, purchasing } from "../assets";
 
 

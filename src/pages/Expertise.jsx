@@ -1,4 +1,3 @@
-import { React, useRef, useState } from "react";
 import styles from "../style";
 import Services from '../components/Services';
 import Heroserv from "../components/Heroserv";

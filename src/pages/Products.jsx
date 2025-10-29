@@ -1,8 +1,7 @@
-import { useState, React } from "react";
+import { useState} from "react";
 import CategoryButtons from './components/CategoryButtons.jsx';
 import ProductList from './components/ProductList.jsx';
 import allProducts from "./components/index.js";
-import styles from "../style.js";
 import "../index.css"
 import SlideCard from "../components/SlideCard.jsx"
 import Footer from "../components/Footer"

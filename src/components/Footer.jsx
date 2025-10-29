@@ -1,9 +1,9 @@
-import { React, useState } from "react";
+import {useState } from "react";
 import styles from "../style";
 import { Link } from "react-router-dom";
 import { HSL_Logo } from "../assets";
-import { footerLinks, socialMedia, creator } from "../constants/index";
-import { PiMapPin, PiMapPinFill, PiPhoneCall } from "react-icons/pi"
+import { footerLinks, socialMedia} from "../constants/index";
+import {PiMapPinFill} from "react-icons/pi"
 import { MdCall, MdEmail } from "react-icons/md";
 
 const Footer = () => {

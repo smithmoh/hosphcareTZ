@@ -1,4 +1,3 @@
-import React from "react"
 import Sdata from "./Sdata"
 import Slider from "react-slick"
 import "slick-carousel/slick/slick.css"

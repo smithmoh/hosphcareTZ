@@ -1,11 +1,9 @@
 import styles, { layout } from "../style";
 import { cardimg } from "../assets"
 import Button from "./Button";
-import { Swiper, SwiperSlide, useSwiper } from 'swiper/react';
 import 'swiper/css';
 import './CardDeal.css';
-import sliderdata from '../constants/slider';
-import { IoChevronBack, IoChevronForward } from "react-icons/io5";
+
 
 const CardDeal = () => {
   return(

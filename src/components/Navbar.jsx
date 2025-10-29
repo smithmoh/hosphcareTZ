@@ -1,7 +1,7 @@
-import { React, useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import "../index.css"
-import { close, HSL_Logo, menu } from "../assets";
+import { HSL_Logo} from "../assets";
 import { navLinks } from "../constants";
 import styles from "../style";
 import { RiMenu3Line } from "react-icons/ri"

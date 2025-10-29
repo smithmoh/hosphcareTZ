@@ -1,6 +1,5 @@
-import { apple, bill, google } from "../assets";
-import styles, { layout } from "../style";
-import featuresData from '../constants/index';
+import styles from "../style";
+
 
 const HelpHero = () => (  
   <section id="product" className={`${styles.flexCenter} ${styles.paddingY}`}>
