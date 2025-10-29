@@ -9,8 +9,7 @@ import { MdOutlineClose } from "react-icons/md"
 
 const Navbar= () => {
   const [active, setActive] = useState("Home");
-  const [toggle, setToggle] = useState(false);
-  const [fix, setfix] = useState(false);
+  const [fix] = useState(false);
   const [ mobileMenuOpen, setMobileMenuOpen ] = useState(false);
 
   return (

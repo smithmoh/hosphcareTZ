@@ -6,24 +6,6 @@ import sliderdata from '../constants/sliderservices';
 
 
 const Services = () => {
-  const slidersettings = {
-    slidesPerView: 1,
-    spaceBetween: 20,
-    breakpoints: {
-        480: {
-            slidesPerView: 1
-        },
-        600: {
-            slidesPerView: 2
-        },
-        750: {
-            slidesPerView: 3
-        },
-        1100: {
-            slidesPerView: 4
-        }
-    }
-  }
   return(
   <section className={`${styles.paddingY} flex md: flex-col`}>
     <div className={layout.sectionInfo}>
