@@ -190,27 +190,27 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: whatsapp,
-    link: "https://wa.me/+254729327268",
+    link: "https://wa.me/+255792996709",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/hosphcaresolutionsltd",
+    link: "https://www.facebook.com/share/1C5EPdx29d/",
   },
   {
     id: "social-media-3",
     icon: instagram,
-    link: "https://www.instagram.com/hosphcaresolutionsltd/",
+    link: "https://www.instagram.com/hosphcare_solutions_tz?utm_source=qr&igsh=MXZ5MTF2aGQ1d3owMw==",
   },
   {
     id: "social-media-4",
     icon: youtube,
-    link: "https://www.youtube.com/@HosphcareSolutionsLimitedHSL",
+    link: "https://youtube.com/@hosphcaresolutionstzlimited?si=z0WfVbts9IDy4cj7",
   },
   {
     id: "social-media-5",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/hosphcare-solutions-limited-6a9a8528b/",
+    link: "https://www.linkedin.com/company/hosphcare-solutions-tz-limited/",
   },
   {
     id: "social-media-5",
@@ -222,7 +222,7 @@ export const socialMedia = [
 export const creator = [
   {
     id: "creator",
-    link: "https://github.com/Ndwigar",
+    link: "https://github.com/wangunda",
   },
 ];
 
