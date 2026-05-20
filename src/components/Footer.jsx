@@ -31,8 +31,7 @@ const Footer = () => {
         <div className="flex flex-row gap-2 items-start">
           <MdEmail size={18} color={'black'} />
           <div className="flex flex-col">
-            <h4 className="font-poppins font-regular text-[14px] leading-[27px] text-black">info@hosphcaresolutionsltd.co.tz </h4>
-            <h4 className="font-poppins font-regular text-[14px] leading-[27px] text-black">sales@hosphcaresolutionsltd.co.tz </h4> 
+            <h4 className="font-poppins font-regular text-[14px] leading-[27px] text-black">solutionshosphcare@gmail.com </h4>
           </div>
         </div> 
         <div className="flex flex-row gap-2 items-center">

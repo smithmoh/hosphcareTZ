@@ -59,8 +59,7 @@ const Contact = () => {
                       <MdEmail size={24} color={'white'} />
                       <div className="flex flex-col gap-2">
                         <h4 className="font-poppins font-bold text-[18px] leading-[27px] text-white">Mail</h4>
-                        <h4 className="font-poppins font-regular text-[14px] leading-[27px] text-white">info@hosphcaresolutionsltd.co.tz </h4>                 
-                        <h4 className="font-poppins font-regular text-[14px] leading-[27px] text-white">sales@hosphcaresolutionsltd.co.tz </h4> 
+                        <h4 className="font-poppins font-regular text-[14px] leading-[27px] text-white">solutionshosphcare@gmail.com </h4>
                       </div>
                     </div>                
                   </div>
